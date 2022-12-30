@@ -9,4 +9,4 @@ Prereleases and unfinished content can be downloaded early from my Discord Serve
 
 Discord Server: https://discord.gg/YV88FYxD2q
 
-Link to details on my Patreon: https://www.patreon.com/posts/prerelease-for-76535751?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+Link to details on my Patreon: https://www.patreon.com/posts/prerelease-for-76535751
