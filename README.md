@@ -8,7 +8,7 @@ All most recent mod versions can be downloaded in the "Releases" section to the 
 Both the raw `.package` file and the full `.sporemod` files are included with some older downloads; most of these are interchangeable and you can download just one or the other.
 
 
-### <p align="center">Prereleases and unfinished content can be downloaded early from my Discord Server if you are an eligible Patron.
+#### Prereleases and unfinished content can be downloaded early from my Discord Server if you are an eligible Patron.
 
 <b>Join my [Discord](https://discord.gg/YV88FYxD2q)</b>
 
