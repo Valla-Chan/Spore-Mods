@@ -1,9 +1,7 @@
-# ![sporeicon](https://github.com/Valla-Chan/Spore-Mods/assets/20942102/ec399aeb-c95f-446a-aaa6-6b1ae70514c5)
-# Spore-Mods
+# <p align="center">![sporeicon](https://github.com/Valla-Chan/Spore-Mods/assets/20942102/ec399aeb-c95f-446a-aaa6-6b1ae70514c5)</p>
+# <p align="center">A collection of Spore mods by Allison Ghost / Valla-Challa</p>
 
-## A collection of Spore mods by Allison Ghost
-
-### All mods on this page require Spore: Galactic Adventures
+### <p align="center">All mods on this page require Spore: Galactic Adventures</p>
 All most recent mod versions can be downloaded in the "Releases" section to the right of this page.
 Both the raw `.package` file and the full `.sporemod` files are included with some older downloads; most of these are interchangeable and you can download just one or the other.
 
