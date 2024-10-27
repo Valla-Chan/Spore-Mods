@@ -13,9 +13,9 @@ To install a `Mod.zip` download, simply extract the folder and install the packa
 
 
 
-#### Prereleases and unfinished content can be downloaded early from my Discord Server if you are an eligible Patron.
+### Prereleases and unfinished content can be downloaded early from my Discord Server by eligible Patrons.
 
-<b>See my mods in action on [YouTube](https://www.youtube.com/playlist?list=PL5bpOo1StUgxU_1_fOMyljW3qMw752pMH))</b>
+<b>See my mods in action on [YouTube](https://www.youtube.com/playlist?list=PL5bpOo1StUgxU_1_fOMyljW3qMw752pMH)</b>
 
 <b>Join my [Discord](https://discord.gg/YV88FYxD2q)</b>
 
