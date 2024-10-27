@@ -8,7 +8,8 @@
 #### Download info:
 Both the raw `.package` file and the full `.sporemod` files are included with some older downloads; most of these are interchangeable and you can download just one or the other.
 
-If a download offers a file called `Mod.zip`, this is simply a package inside of a zipped folder, designed to prevent Github's removal of the `!` prefix on files. To install a `Mod.zip` download, simply extract the folder and install the package file normally. 
+If a download offers a file called `Mod.zip`, this is simply a package inside of a zipped folder, designed to prevent Github's removal of the `!` prefix on files.
+To install a `Mod.zip` download, simply extract the folder and install the package file normally. 
 
 
 
