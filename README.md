@@ -2,7 +2,7 @@
 # <p align="center">The Allison Ghost Spore Mod Collection
 
 
-### <p align="center">All mods on this page require Spore: Galactic Adventures</p>
+### <p align="center">All mods on this page require Spore: Galactic Adventures and the [Spore Mod API + Launcher](https://launcherkit.sporecommunity.com/).</p>
 #### The most recent mod versions can be downloaded in the "Releases" section to the right of this page.
 
 Below are mod downloads that are hosted on their own mod repos:
