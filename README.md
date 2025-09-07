@@ -3,7 +3,7 @@
 
 
 ### <p align="center">All mods on this page require Spore: Galactic Adventures and the [Spore Mod API](https://launcherkit.sporecommunity.com/)</p>
-#### The most recent mod versions can be downloaded in the [Releases](https://github.com/Valla-Chan/Spore-Mods/releases) section on this page.
+#### The most recent mod versions can be downloaded in the [Releases](https://github.com/Valla-Chan/Spore-Mods/releases) section of this page.
 
 Below are mod downloads that are hosted on their own mod repos:
 - [Creature Part Unlock API](https://github.com/Valla-Chan/Valla_Spore_CreaturePartUnlockAPI)
