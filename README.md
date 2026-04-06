@@ -7,7 +7,6 @@
 
 Below are mod downloads that are hosted on their own mod repos:
 - [Creature Part Unlock API](https://github.com/Valla-Chan/Valla_Spore_CreaturePartUnlockAPI)
-- [UI Fixer Framework](https://github.com/Valla-Chan/Valla_SporeUIFixerFramework)
 ___
 #### Download info:
 - Both the raw `.package` file and the full `.sporemod` files are included with some older downloads; most of these are interchangeable and you can download just one or the other.
